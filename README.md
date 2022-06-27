@@ -3,8 +3,7 @@
 ## This project is based Sales of various stores taking into consideration the amount of 
 ## customers that come in daily, store area, items available and store sales.
 
-# The aim of this project is to compare the difference in sales of the stores and the factors
-# affecting it.
+# The aim of this project is to compare the difference in sales of the stores and the factors affecting it.
 
 # Data Preparation
 ## The data seemed clean because there were no missing values, duplicates and outliers to 
@@ -19,7 +18,7 @@
 # Interpretation
 ## The Store Area determined the available items at the store all other variables were independent
 ## of the other.
-## Across all stores each customer did not spend more than $4548 per day and $136440 per month.
+## Across all stores each customer did not spend more than $45480 per day and $136440 per month.
 
 # Recommendations
 * More data can be collected on items that makes each store different. 
